@@ -1,4 +1,7 @@
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UltimateMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
@@ -102,3 +105,12 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 [Support Server](https://discord.gg/sPdT9aWZu5) - UltimateMusic's Support Server Invite
 
 [version-shield]: https://img.shields.io/github/package-json/v/CPS7/Ultimate-Music?style=for-the-badge
+
+[contributors-shield]: https://img.shields.io/github/contributors/CPS7/Ultimate-Music.svg?style=for-the-badge
+[contributors-url]: https://github.com/CPS7/Ultimate-Music/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CPS7/Ultimate-Music.svg?style=for-the-badge
+[forks-url]: https://github.com/CPS7/Ultimate-Music/network/members
+[stars-shield]: https://img.shields.io/github/stars/CPS7/Ultimate-Music.svg?style=for-the-badge
+[stars-url]: https://github.com/CPS7/Ultimate-Music/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CPS7/Ultimate-Music.svg?style=for-the-badge
+[issues-url]: https://github.com/CPS7/Ultimate-Music/issues
