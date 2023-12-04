@@ -1,4 +1,4 @@
-[![Version][version-shield]](1.0.0)
+[![Version][version-shield]](version-url)
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UltimateMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
