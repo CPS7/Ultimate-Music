@@ -55,14 +55,13 @@
   
 ## 🎶 Support Source
 
-- Youtube
-- SoundCloud
-- Spotify
-- Https (Radio)
-- Deezer
-- Twitch
-- Bandcamp
-- NicoVideo
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)
+- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
+- ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
+- ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)
+- ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=plastic&logo=twitch&logoColor=white)
+- ![Bandcamp](https://img.shields.io/badge/Bandcamp-629AA9?style=plastic&logo=bandcamp&logoColor=white)
+- ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 
 ## 📚 Commands
 
