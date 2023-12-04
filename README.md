@@ -7,7 +7,7 @@
     <img src="file:///C:/Users/Lakshay%20Rastogi/Downloads/cc017c4e4219d7d2f5bcf00560627dd0.jpeg">
   </a>
 
-  <h3 align="center">WaveMusic</h3>
+  <h3 align="center">UltimateMusic</h3>
 
 
 <h1 align="center">Ultimate Music</h1>
