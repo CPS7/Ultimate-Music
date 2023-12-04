@@ -19,6 +19,8 @@
     <a href="https://github.com/CPS7/Ultimate-Music/issues">Report Bug</a>
     ·
     <a href="https://github.com/CPS7/Ultimate-Music/issues">Request Feature</a>
+    .
+    <a href="https://discord.com/oauth2/authorize?client_id=1167361373819371540&permissions=150864383096&scope=bot%20applications.commands">Invite Bot</a>
   </p>
 </p>
 
