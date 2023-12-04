@@ -1,4 +1,4 @@
-
+[![Version][version-shield]](version-url)
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UltimateMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
@@ -90,3 +90,14 @@
 
 </details>
 
+###
+
+UltimateMusic is a discord music bot base in [Shoukaku](<https://github.com/Deivu/Shoukaku>)
+If you liked this repository, feel free to leave a star ⭐ to help promote !
+
+## 💌 Support Server
+
+[![DiscordBanner](https://invidget.switchblade.xyz/sPdT9aWZu5)](https://discord.gg/sPdT9aWZu5)
+[Support Server](https://discord.gg/sPdT9aWZu5) - UltimateMusic's Support Server Invite
+
+[version-shield]: https://img.shields.io/github/package-json/v/CPS7/Ultimate-Music?style=for-the-badge
