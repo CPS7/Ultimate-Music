@@ -4,9 +4,19 @@
 <br />
 <p align="center">
   <a href="https://github.com/CPS7/Ultimate-Music">
-    <img src="file:///C:/Users/Lakshay%20Rastogi/Downloads/cc017c4e4219d7d2f5bcf00560627dd0.jpeg">
+    <img src="https://github.com/CPS7/Ultimate-Music/blob/main/UltimateMusic.jpeg?raw=true">
   </a>
 
   <h3 align="center">UltimateMusic</h3>
+
+  <p align="center">
+    UltimateMusic is  a powerful music Bot
+    <br />
+    <br />
+    <a href="https://github.com/CPS7/Ultimate-Music/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/CPS7/Ultimate-Music/issues">Request Feature</a>
+  </p>
+</p>
 
 <h3 align="center">A High Quality Music Discord Bot </h3>
